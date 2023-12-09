@@ -1,0 +1,27 @@
+# ninja log v5
+0	240	7238297524315952	CMakeFiles/DoublyLinkedList.dir/main.cpp.obj	cc432bcd81480166
+242	371	7238297525584854	DoublyLinkedList.exe	a62273bae70fd2ce
+2	213	7238300428186886	CMakeFiles/DoublyLinkedList.dir/main.cpp.obj	cc432bcd81480166
+213	278	7238300428803227	DoublyLinkedList.exe	a62273bae70fd2ce
+2	208	7238300542864568	CMakeFiles/DoublyLinkedList.dir/main.cpp.obj	cc432bcd81480166
+208	269	7238300543433942	DoublyLinkedList.exe	a62273bae70fd2ce
+2	202	7238306981476917	CMakeFiles/DoublyLinkedList.dir/main.cpp.obj	cc432bcd81480166
+202	258	7238306982016703	DoublyLinkedList.exe	a62273bae70fd2ce
+2	200	7238318592854749	CMakeFiles/DoublyLinkedList.dir/main.cpp.obj	cc432bcd81480166
+200	260	7238318593425387	DoublyLinkedList.exe	a62273bae70fd2ce
+2	216	7238319725942180	CMakeFiles/DoublyLinkedList.dir/main.cpp.obj	cc432bcd81480166
+216	279	7238319726564647	DoublyLinkedList.exe	a62273bae70fd2ce
+1	202	7238320038883402	CMakeFiles/DoublyLinkedList.dir/main.cpp.obj	cc432bcd81480166
+202	263	7238320039469008	DoublyLinkedList.exe	a62273bae70fd2ce
+1	208	7238320626230203	CMakeFiles/DoublyLinkedList.dir/main.cpp.obj	cc432bcd81480166
+208	267	7238320626776462	DoublyLinkedList.exe	a62273bae70fd2ce
+2	216	7238399458137972	CMakeFiles/DoublyLinkedList.dir/main.cpp.obj	cc432bcd81480166
+216	296	7238399458906721	DoublyLinkedList.exe	a62273bae70fd2ce
+1	216	7238399790768777	CMakeFiles/DoublyLinkedList.dir/main.cpp.obj	cc432bcd81480166
+216	278	7238399791375476	DoublyLinkedList.exe	a62273bae70fd2ce
+1	219	7238407433090049	CMakeFiles/DoublyLinkedList.dir/main.cpp.obj	cc432bcd81480166
+220	280	7238407433703974	DoublyLinkedList.exe	a62273bae70fd2ce
+2	237	7238410185213208	CMakeFiles/DoublyLinkedList.dir/main.cpp.obj	cc432bcd81480166
+237	300	7238410185812310	DoublyLinkedList.exe	a62273bae70fd2ce
+2	204	7238410341188546	CMakeFiles/DoublyLinkedList.dir/main.cpp.obj	cc432bcd81480166
+204	265	7238410341771899	DoublyLinkedList.exe	a62273bae70fd2ce
